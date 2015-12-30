@@ -1,0 +1,28 @@
+name: MW
+favicon: null
+layout_spectrum: 0.6475124785210937
+typography_spectrum: 0.10915926587767899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.607566813705489
+  lightness: 0.9597631434444338
+  saturation: 0.9109003837220371
+  rhythmicContrast: 0.9363020106684417
+purpose: []
